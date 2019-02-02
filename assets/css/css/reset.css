@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/*début style section "prems"*/
+#prems { width: 101%; height: 45px; margin: 0 0 0 0; margin-left: -10px; padding: 0; background-color: #1E93CC; height: 320px; }
+
+#trois { width: 101%; height: 45px; margin: 0 0 0 0; margin-left: -10px; padding: 0; background-color: #1E93CC; height: 450px; }
+
+#cinq { width: 101%; height: 45px; margin: 0 0 0 0; margin-left: -10px; padding: 0; background-color: #EEEEEE; height: 450px; }
+
+#avatar { margin: 25 0 0 88; width: auto; height: 80%; }
+
+#bloc2 { float: right; font: normal normal normal 14px/1 FontAwesome; color: white; font-size: 180%; font-weight: 50; margin: 0 350 0 0; font-weight: 100; }
+
+#logo2 { width: auto; height: 85px; margin: 30 0 0 -300; }
+
+a { color: white; }
+
+a:link { text-decoration: none; }
+
+#bouton { background-color: #e99002; border-style: solid; padding: 18 18 18 18; border-width: 2px; border-color: white; border-radius: 10px; font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-weight: lighter; font-size: 19px; margin-right: 300; margin-top: -40px; }
+
+#milieu { font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 26px; }
+
+#cadre { width: 50%; }
+
+#titre { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 30px; color: white; }
+
+#paragraphe { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 15px; color: #CBD8DE; }
+
+#cadre1 { width: 60%; margin-left: 150px; padding-top: 25px; }
+
+#cadre2 { width: 60%; margin-left: 150px; padding-top: 15px; }
+
+#cadre-bis { float: right; margin-top: -415px; width: 60%; margin-left: 150px; padding-top: 15px; }
+
+#cadre-ter { padding-top: 100px; margin-right: 250px; }
+
+#l1 { list-style-type: none; width: auto; height: 50px; }
+
+#l2 { list-style-type: none; width: auto; height: 50px; }
+
+#l3 { width: auto; height: 50px; }
+
+#l4 { width: auto; height: 50px; }
+
+#l5 { width: auto; height: 50px; }
+
+#l6 { width: auto; height: 100px; padding: 80 0 0 0; margin-left: 100px; }
+
+#logod { list-style-type: none; float: right; padding: 0 65 0 0; }
+
+/*créer 3 colonnes pour placer mes boutons*/
+#colonnes { width: 32%; float: right; padding-right: 2px; }
+
+.bleu { width: 150px; background-color: #165882; color: white; height: 70px; border: #165882; border-radius: 7px; font-size: 20px; font-family: Quicksand; }
+
+.orange { width: 150px; background-color: #E99002; color: white; border-radius: 7px; font-size: 20px; height: 70px; font-family: Quicksand; border: #e99002; }
+
+#frere { margin-left: 35%; padding-top: 50px; }
+
+#dernier { height: 250px; }
+
+#footd { list-style-type: none; float: right; padding: 15 15 0 0; margin-left: 5; color: white; }
+
+#footc { list-style-type: none; float: left; padding: 15 15 0 0; }
+
+#foot { width: 101%; height: 50px; margin: -16 0 0 0; margin-left: -10px; padding: 0; background-color: #333333; border-right: solid white; }
+/*# sourceMappingURL=reset.css.map */
