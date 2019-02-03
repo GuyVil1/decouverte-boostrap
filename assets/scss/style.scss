@@ -1,4 +1,76 @@
+body{
+    width: 100%;
+}
 .red{
-    height: 600px;
+    height: auto;
     background-color: red;
+    margin-top: 60px;
+}
+
+.blue{
+    height: auto;
+    background-color: blue;
+    margin-bottom: 5em;
+}
+
+.infotext{
+    font-family: 'Chewy', cursive;
+    color: white;
+    margin-top: auto;
+    margin-right: auto;
+    font-size: 4em;
+}
+
+.black{
+    background-color: black;
+}
+
+.yellow{
+    background-color: yellow;
+}
+.infomini{
+    font-family: 'Abhaya Libre', serif;
+    font-size: 1.5em;
+    color: white;
+}
+.btn-perso{
+    background-color: aquamarine;
+}
+
+.btn-orange{
+    background-color: bisque;
+}
+
+.header{
+    background: url(/assets/img/meilleurs-outils.jpg);
+    height: 720px;
+}
+.title{
+    color: white;
+    font-weight: 600;
+}
+
+.logo{
+    width: 150px;
+    height: auto;
+}
+
+.tgeneral{
+    font-size: 2em;
+    color: white;
+    font-family: 'Chewy', cursive;
+    text-shadow: 2px 2px 2px black;
+}
+
+.content{
+    padding-top:30%;
+}
+
+.logo50px{
+    width: 50px;
+    height: auto;
+}
+
+a{
+    text-decoration: none;
 }
